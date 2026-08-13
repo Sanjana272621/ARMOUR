@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>mycobot_moveit_config</name>
+  <name>mycobot_system_tests</name>
   <version>0.0.0</version>
-  <description>Moveit configurations, launch files and SRDF files</description>
+  <description>Integration and system tests for verifying robot functionality</description>
   <maintainer email="sanjana.sureshkumar05@gmail.com">sanjana</maintainer>
   <license>BSD-3-clause</license>
 
